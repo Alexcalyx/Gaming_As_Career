@@ -184,16 +184,22 @@ body
   
   .mar{ margin:0px 0px 0px 30px;}
   
+/* ALEX */
+
+#streaming{
+  min-height: auto;
+}
+
+.stream{	background-image:url("platform.jpg");
+		background-repeat:no-repeat;
+		background-size:1600px 700px;
+		color:white;
+                background-position: center;}
 
 /* ARPIT */
 #esports{
   min-height: 100vh;
   background-color: blue;
-}
-
-#live-stream{
-  height: 100vh;
-  background-color: #281A00;
 }
 
 
